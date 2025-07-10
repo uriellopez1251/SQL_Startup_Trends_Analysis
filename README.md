@@ -49,8 +49,8 @@ The skills demonstrated here are directly aligned with data roles in:
 ---
 
 ## 📁 Files Included
-- `screenshots/` – Task outputs (10 SQL task screenshots)
-- `schema_reference.png` – ER diagram of database structure *(optional upload)*
+- `screenshots/` – Task outputs (SQL task screenshots)
+- `schema_reference.png` – ER diagram of database structure *(optional upload)* 
 - `queries.sql` – (Optional) saved SQL scripts used in analysis
 
 ---
